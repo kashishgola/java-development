@@ -1,6 +1,7 @@
 package Collections;
 
-public class Car {
+public class
+Car {
         String brand;
 
         public Car(String brand){
